@@ -1,0 +1,9 @@
+{
+  "name": "cwp-09",
+  "author": "Andrei Chayeuski",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
